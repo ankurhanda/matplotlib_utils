@@ -1,3 +1,3 @@
 # matplotlib_utils
 
-Utility functions for quick matplotlib plotting
+Utility functions for quick matplotlib plotting..
